@@ -6,7 +6,7 @@ I like to take on projects that are above my current level and learn throughout 
 
 I am currently learning and working with Python and C(currently my favorite).
 
-Fun facts about me:
+## Fun facts about me:
   - I love coffee
   - I like to play MMORPGs and Roguelike games (i want to create one this year)
   - Long hours of working on a project are my guilty pleasure
